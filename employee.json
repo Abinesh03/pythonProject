@@ -1,0 +1,8 @@
+{
+   maincategory = [ 'Accepted_Data',
+ 'Account realted_new2', 'CAL Ticket_new', 'Case Handling_new2', 'Entitlement Related_new2', 'Learning Portal_new2',
+  "Notification_new2", 'Others', 'Partner cases_new2', 'Sc_portal2', 'Services_new2', 'Site Forge_new2', 'Support Ticket_new2,
+]
+
+   subcategory = [ ]
+}
